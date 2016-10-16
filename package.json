@@ -1,0 +1,22 @@
+{
+  "name": "bind-state-getters",
+  "version": "1.0.0",
+  "description": "Bind state getters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/billxinli/bind-state-getters.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/billxinli/bind-state-getters/issues"
+  },
+  "homepage": "https://github.com/billxinli/bind-state-getters#readme",
+  "dependencies": {
+    "lodash": "^4.16.4"
+  }
+}
